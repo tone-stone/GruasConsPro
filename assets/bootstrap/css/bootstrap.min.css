@@ -514,7 +514,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    max-width: 1140px;
+    max-width: 1850px;
   }
 }
 .container-fluid,
@@ -555,7 +555,7 @@ pre code {
   .container-md,
   .container-sm,
   .container-xl {
-    max-width: 1140px;
+    max-width: 1600px;
   }
 }
 .row {
@@ -9454,8 +9454,8 @@ a.text-dark:hover {
 @media (min-width: 992px) {
   #mainNav {
     flex-flow: row wrap;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: transparent;

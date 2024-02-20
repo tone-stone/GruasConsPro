@@ -100,7 +100,16 @@ body {
 .portfolio-item{
 	width:100%;
 }
+.portfolio-item2{
+	width:33%;
+}
 .portfolio-item .item{
+	width:303px;
+	float:left;
+	margin-bottom:10px;
+}
+
+.portfolio-item2 .item{
 	width:303px;
 	float:left;
 	margin-bottom:10px;
